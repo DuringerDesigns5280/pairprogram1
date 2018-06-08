@@ -16,3 +16,5 @@ Fion - created fion.html and added to index.html
 Taylor - deleted taylor.html and unlinked from index.html
 
 Fion - removed fion.html and unlimked from index.html
+
+Taylor - created js directory and moved main.js into said folder
