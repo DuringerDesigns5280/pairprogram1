@@ -1,9 +1,4 @@
 # pairprogram2
-
-Fion - 1
-
-Taylor -2
-
-Fion - 2
-
-Fion you rock! 
+Taylor - init commit 
+Fion - did practice pulls on README.MD
+Taylor- added app folder 
