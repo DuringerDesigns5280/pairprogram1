@@ -9,3 +9,4 @@ Taylor - Added app folder to repo
 
 Fion - Created array of objects with name and age in each
 
+Taylor - created taylor.html
