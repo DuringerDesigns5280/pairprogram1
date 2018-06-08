@@ -14,3 +14,5 @@ Taylor - created taylor.html and added to index.htm
 Fion - created fion.html and added to index.html
 
 Taylor - deleted taylor.html and unlinked from index.html
+
+Fion - removed fion.html and unlimked from index.html
