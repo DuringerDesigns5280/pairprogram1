@@ -1,9 +1,9 @@
 # pairprogram2
 
-Fion - 1
+Taylor - Created repo and made initial commit
 
-Taylor -2
+Fion - Made a practice pull
 
-Fion - 2
+Taylor - Added app folder to repo
 
-Fion you rock! 
+Fion - Created array of objects with name and age in each
