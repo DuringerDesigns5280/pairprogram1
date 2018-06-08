@@ -1,4 +1,11 @@
 # pairprogram2
-Taylor - init commit 
-Fion - did practice pulls on README.MD
-Taylor- added app folder 
+
+
+Taylor - Created repo and made initial commit
+
+Fion - Made a practice pull
+
+Taylor - Added app folder to repo
+
+Fion - Created array of objects with name and age in each
+
