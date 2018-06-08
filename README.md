@@ -12,3 +12,5 @@ Fion - Created array of objects with name and age in each
 Taylor - created taylor.html and added to index.htm
 
 Fion - created fion.html and added to index.html
+
+Taylor - deleted taylor.html and unlinked from index.html
