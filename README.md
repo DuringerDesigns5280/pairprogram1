@@ -18,3 +18,5 @@ Taylor - deleted taylor.html and unlinked from index.html
 Fion - removed fion.html and unlimked from index.html
 
 Taylor - created js directory and moved main.js into said folder
+
+Fion - changed h1 to pink, changed nav color to black, changed nav a font-size to 24px, changed grid gap to 11px, added background color to header
